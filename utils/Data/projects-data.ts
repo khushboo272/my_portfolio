@@ -1,0 +1,86 @@
+export const projectsData = [
+  {
+    id: 1,
+    name: "User Registration and Login System (MERN Stack)",
+    description:
+      "Developed a full-stack user authentication system using the MERN stack. Implemented secure user registration and login with backend validation and database integration. Ensured safe data storage and smooth user experience.",
+    tools: ["MongoDB", "Express.js", "React.js", "Node.js"],
+    role: "Full-Stack Developer",
+    code: "https://github.com/khushboo272/registrationformwithmernstack",
+    demo: "",
+    date: "2025",
+    images: ["/assets/projects/mern-auth/pic.png"],
+    videos: [""],
+    highlights: [
+      "Built secure user registration and login system.",
+      "Implemented backend validation for user inputs.",
+      "Stored user data safely in MongoDB database.",
+      "Ensured smooth authentication flow using MERN stack.",
+    ],
+    challenges: [
+      "Handling secure authentication and validation logic.",
+      "Connecting frontend and backend seamlessly.",
+      "Managing user data securely in database.",
+    ],
+  },
+  {
+    id: 2,
+    name: "Intelligent Travel Information Assistant",
+    description:
+      "Built a real-time travel assistance platform that provides destination insights, hotel information, and trip recommendations using live API integration. Designed a responsive interface for smooth user interaction.",
+    tools: ["HTML", "CSS", "JavaScript", "REST APIs"],
+    role: "Frontend Developer",
+    code: "",
+    demo: "",
+    date: "March 2025 – May 2025",
+    images: ["/assets/projects/travel/pic.png"],
+    videos: [""],
+    highlights: [
+      "Integrated real-time APIs for travel data.",
+      "Provided hotel and destination insights dynamically.",
+      "Built a responsive and user-friendly interface.",
+      "Improved user decision-making with accurate data.",
+    ],
+    challenges: [
+      "Handling real-time API responses efficiently.",
+      "Designing a clean UI for complex travel data.",
+      "Managing dynamic content rendering smoothly.",
+    ],
+  },
+  {
+  id: 3,
+  name: "AI Video Lecture Summarizer (Production-Ready Platform)",
+  description:
+    "Building a scalable AI-powered platform that converts lecture videos into structured study notes. The system processes videos, extracts audio, transcribes speech using Whisper, and generates well-structured notes using Gemini AI. Currently evolving from a desktop application into a full-stack web platform with improved performance, better UI, and scalable architecture.",
+  tools: [
+    "Python",
+    "Whisper",
+    "Gemini API",
+    "Tkinter",
+    "FFmpeg",
+    "ReportLab",
+    "React (Planned)",
+    "Node.js (Planned)"
+  ],
+  role: "AI + Full-Stack Developer",
+  code: "https://github.com/khushboo272/video_summarizer",
+  demo: "",
+  date: "2025 – Present",
+  images: ["/assets/projects/video/pic.png"],
+  videos: [""],
+  highlights: [
+    "Built end-to-end video-to-notes automation pipeline.",
+    "Converted speech to text using Whisper with high accuracy.",
+    "Generated structured study notes using Gemini AI.",
+    "Exported outputs as Markdown and styled PDF.",
+    "Processing multiple videos with batch support.",
+    "Upgrading to a full-stack production-level web platform.",
+  ],
+  challenges: [
+    "Handling large video processing efficiently.",
+    "Integrating multiple AI tools in one pipeline.",
+    "Managing API response time and formatting.",
+    "Scaling the system from desktop to web architecture.",
+  ],
+  },
+];
