@@ -6,7 +6,7 @@ export const projectsData = [
       "Developed a full-stack user authentication system using the MERN stack. Implemented secure user registration and login with backend validation and database integration. Ensured safe data storage and smooth user experience.",
     tools: ["MongoDB", "Express.js", "React.js", "Node.js"],
     role: "Full-Stack Developer",
-    code: "https://github.com/khushboo272/registrationformwithmernstack",
+    code: "https://github.com/khushboo272/authentication_system",
     demo: "",
     date: "2025",
     images: ["/assets/projects/mern-auth/pic.png"],
