@@ -7,7 +7,7 @@ This portfolio highlights my skills, projects, certifications, and experience wi
 
 ## 🚀 Live Demo
 
-🔗 https://github.com/khushboo272/portfolio_website
+🔗 https://khushboo.tech
 
 ---
 
